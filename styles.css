@@ -13,3 +13,6 @@ header .navbar-brand {
 h3 {
     font-family: 'Orbitron', sans-serif;
 }
+.intro {
+    padding-top: 4%;
+}
